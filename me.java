@@ -1,4 +1,0 @@
-man
-woman
-boys
-girls
